@@ -120,11 +120,9 @@ The provisioner installs the base operating system on the BaremetalNode
 
 The bootstrapper prepares the ProvisionedNode for the Configurator.
 
-### Commentary
+### Commentary: Configuration Repository Layout
 
-### Configuration Repository Layout
-
-### Provisioning and Bootstrapping
+### Commentary: Provisioning and Bootstrapping
 
 Although provisioning itself is worth its own topic, there are a few important questions from a configuration management perspective:
   * What is the expected state of a provisioned node?
